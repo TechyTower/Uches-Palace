@@ -6,4 +6,4 @@
 <p> As you scroll through youtube searching for pixel gun 3d content, you would come accross multiple videos on how get coins and jems easily,how to perform a glitch that would grant you 10000s of jems and coins. This just shows and tells you how pricy the game can be to the point the exploiters would put up a guide.</p>
 <img src="https://i.ytimg.com/vi/HkZI2bHkYHc/maxresdefault.jpg"> 
 <p> Overall its just sad, heres a link to a video on how to get jems and coins :) </p>
-https://youtu.be/dQw4w9WgXcQ
+{link}(https://youtu.be/dQw4w9WgXcQ)
